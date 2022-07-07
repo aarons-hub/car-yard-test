@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/car-yard-test/static/css/main.e6c13ad2.css",
-    "main.js": "/car-yard-test/static/js/main.b7dfb791.js",
+    "main.js": "/car-yard-test/static/js/main.b83b7ee8.js",
     "index.html": "/car-yard-test/index.html",
     "main.e6c13ad2.css.map": "/car-yard-test/static/css/main.e6c13ad2.css.map",
-    "main.b7dfb791.js.map": "/car-yard-test/static/js/main.b7dfb791.js.map"
+    "main.b83b7ee8.js.map": "/car-yard-test/static/js/main.b83b7ee8.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.b7dfb791.js"
+    "static/js/main.b83b7ee8.js"
   ]
 }
