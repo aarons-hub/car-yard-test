@@ -8,7 +8,7 @@ function Carslist() {
   const [filter, setFilter] = useState([]);
 
   function fetchData() {
-    fetch("/data.json")
+    fetch("./data.json")
       .then((response) => response.json())
       .then((json) => setItems(json))
       .catch((e) => {
