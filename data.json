@@ -703,5 +703,148 @@
         }
       ]
     }
+  },
+  {
+    "id": 25,
+    "date": "2022-06-11T11:49:04",
+    "date_gmt": "2022-06-11T11:49:04",
+    "guid": {
+      "rendered": "http://localhost/auto-masters/?post_type=car&#038;p=24"
+    },
+    "modified": "2022-06-14T00:08:38",
+    "modified_gmt": "2022-06-14T00:08:38",
+    "slug": "hyundai",
+    "status": "publish",
+    "type": "car",
+    "link": "http://localhost/auto-masters/car/hyundai/",
+    "title": { "rendered": "New Hyundai" },
+    "content": {
+      "rendered": "\n<div class=\"wp-container-3 wp-block-columns\">\n<div class=\"wp-container-1 wp-block-column\"></div>\n\n\n\n<div class=\"wp-container-2 wp-block-column\">\n<p>Hello</p>\n</div>\n</div>\n",
+      "protected": false
+    },
+    "featured_media": 77,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "custom",
+    "meta": [],
+    "acf": {
+      "model": "i30",
+      "colour": "White",
+      "make": "New make",
+      "transmission": " Sports Automatic ",
+      "price": "500",
+      "image": "http://localhost/auto-masters/wp-content/uploads/2022/06/82a62f5c8ee417b251653a2810fd5fdc.png",
+      "image2": "http://localhost/auto-masters/wp-content/uploads/2022/06/xxx.png",
+      "image3": "http://localhost/auto-masters/wp-content/uploads/2022/06/ccc1c8d9c28e5a7a7fa96917787765e5.png",
+      "year": ""
+    },
+    "_links": {
+      "self": [
+        { "href": "http://localhost/auto-masters/wp-json/wp/v2/car/24" }
+      ],
+      "collection": [
+        { "href": "http://localhost/auto-masters/wp-json/wp/v2/car" }
+      ],
+      "about": [
+        { "href": "http://localhost/auto-masters/wp-json/wp/v2/types/car" }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "http://localhost/auto-masters/wp-json/wp/v2/comments?post=24"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 22,
+          "href": "http://localhost/auto-masters/wp-json/wp/v2/car/24/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 108,
+          "href": "http://localhost/auto-masters/wp-json/wp/v2/car/24/revisions/108"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "http://localhost/auto-masters/wp-json/wp/v2/media/77"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://localhost/auto-masters/wp-json/wp/v2/media?parent=24"
+        }
+      ],
+      "curies": [
+        { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+      ]
+    },
+    "_embedded": {
+      "wp:featuredmedia": [
+        {
+          "id": 77,
+          "date": "2022-06-12T04:34:27",
+          "slug": "xxx",
+          "type": "attachment",
+          "link": "http://localhost/auto-masters/car/hyundai/xxx/",
+          "title": { "rendered": "xxx" },
+          "author": 1,
+          "acf": [],
+          "caption": { "rendered": "" },
+          "alt_text": "",
+          "media_type": "image",
+          "mime_type": "image/png",
+          "media_details": {
+            "width": 400,
+            "height": 192,
+            "file": "2022/06/xxx.png",
+            "filesize": 49636,
+            "sizes": {},
+            "image_meta": {
+              "aperture": "0",
+              "credit": "",
+              "camera": "",
+              "caption": "",
+              "created_timestamp": "0",
+              "copyright": "",
+              "focal_length": "0",
+              "iso": "0",
+              "shutter_speed": "0",
+              "title": "",
+              "orientation": "0",
+              "keywords": []
+            }
+          },
+          "source_url": "http://localhost/auto-masters/wp-content/uploads/2022/06/xxx.png",
+          "_links": {
+            "self": [
+              { "href": "http://localhost/auto-masters/wp-json/wp/v2/media/77" }
+            ],
+            "collection": [
+              { "href": "http://localhost/auto-masters/wp-json/wp/v2/media" }
+            ],
+            "about": [
+              {
+                "href": "http://localhost/auto-masters/wp-json/wp/v2/types/attachment"
+              }
+            ],
+            "author": [
+              {
+                "embeddable": true,
+                "href": "http://localhost/auto-masters/wp-json/wp/v2/users/1"
+              }
+            ],
+            "replies": [
+              {
+                "embeddable": true,
+                "href": "http://localhost/auto-masters/wp-json/wp/v2/comments?post=77"
+              }
+            ]
+          }
+        }
+      ]
+    }
   }
 ]
